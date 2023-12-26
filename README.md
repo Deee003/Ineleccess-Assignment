@@ -1,7 +1,7 @@
 # Inteleccess
 Software Engineer Assignment
 # Dynamic 365
-Perform several Tasks using Dynamic 365.
+Perform several Tasks on Dynamic 365.
 # Tasks in Assignment
 
 Task-1 (Entity Customization):
