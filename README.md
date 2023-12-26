@@ -1,5 +1,13 @@
 # Inteleccess
 Software Engineer Assignment
+
+# Scenerio 
+   A company named XYZ Corp is using Dynamics 365 for managing its sales and 
+   customer service processes. They have a unique requirement to track and manage 
+   customer preferences more effectively. The customization should allow users to 
+   define and update customer preferences directly within the Dynamics 365 
+   environment.
+
 # Dynamic 365
 Perform several Tasks on Dynamic 365.
 # Tasks in Assignment
