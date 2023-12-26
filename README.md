@@ -7,9 +7,7 @@ Software Engineer Assignment
    customer preferences more effectively. The customization should allow users to 
    define and update customer preferences directly within the Dynamics 365 
    environment.
-
-# Dynamic 365
-Perform several Tasks on Dynamic 365.
+   
 # Tasks in Assignment
 
 Task-1 (Entity Customization):
@@ -35,3 +33,6 @@ Task-4 (Business Logic):
 Task-5 (Security Role Configuration):
 -> Configure security roles to ensure that only users with the appropriate 
    privileges can view, create, and update customer preferences.
+
+# Dynamic 365
+ Perform several Tasks on Dynamic 365 Environment.
